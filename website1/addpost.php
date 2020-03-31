@@ -39,7 +39,7 @@ if(isset($_POST['submit'])){
                 </div>
                 <div class="form-group">
                     <label style="color: darkorange" for="">Image</label>
-                    <input type="file" name="uploadFile" class="form-control">
+                    <input type="file" name="image" class="form-control">
                 </div>
                 <div class="form-group">
                     <label for="">Description</label>

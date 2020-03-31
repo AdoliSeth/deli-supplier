@@ -50,7 +50,7 @@ mysqli_close($conn);
     <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
         <div class="card-header"><?php echo $posts['title'] ?></div>
         <div class="card-body">
-            <h3><?php echo $posts['image'] ?></h3>
+            <img style="width: 100%; height: 30vh" src="<?php echo $posts['image'] ?>" class="img-responsive" >
             <small class="card-title"><?php echo $posts['price'];?></small>
             <p class="card-text"><?php echo $posts['description']?></p>
             <small>Posted on <?php echo $posts['created_at'] ?> by </small>

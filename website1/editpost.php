@@ -71,7 +71,7 @@ mysqli_close($conn);
             </div>
             <div class="form-group">
                 <label style="color: darkorange" for="">Image</label>
-                <input type="file" name="uploadFile" class="form-control">
+                <input type="file" name="image" class="form-control" <img src="<?php echo $posts['image'] ?>" class="img-responsive" >>
             </div>
             <div class="form-group">
                 <label for="">Description</label>
