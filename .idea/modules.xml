@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/deli.iml" filepath="$PROJECT_DIR$/.idea/deli.iml" />
+      <module fileurl="file://C://Xampp/../../Xampp/htdocs/deli - supplier/.idea/deli.iml" filepath="C://Xampp/../../Xampp/htdocs/deli - supplier/.idea/deli.iml" />
     </modules>
   </component>
 </project>

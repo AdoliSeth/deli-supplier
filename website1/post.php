@@ -83,6 +83,7 @@ if(isset($_POST['submit'])) {
                     <input type="hidden" name="delete_id" value="<?php echo $posts['id']; ?>">
                     <input type="submit" name="delete" value="Delete" class="btn btn-danger">
                 </form>
+                <a href="<?php echo ROOT_URL;?>" class="btn btn-success">Back</a>
             </div>
         </div>
 </div>
@@ -100,6 +101,7 @@ if(isset($_POST['submit'])) {
                 <input type="submit" name="delete" value="Delete" class="btn btn-danger">
             </form>
             <a href=" editpost.php ?id=<?php echo $posts['id']; ?>" class="btn btn-default">Edit post</a>
+
     </div>
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->

@@ -56,6 +56,7 @@ mysqli_close($conn);
             <small>Posted on <?php echo $posts['created_at'] ?> by </small>
             <hr>
             <a class="btn btn-default" style="background-color: darkorange" href="<?php echo ROOT_URL;?>post.php?id=<?php echo $posts['id'];?>">Buy Now</a>
+            <a href="<?php echo ROOT_URL;?>" class="btn btn-success">Back</a>
 <!--            <a href=" editpost.php ?id=--><?php //echo $posts['id']; ?><!--" class="btn btn-default" style="background-color: green">Edit post</a>-->
 <!--            <hr>-->
 <!--            <form class="pull-right" method="POST" action="--><?php //echo $_SERVER['PHP_SELF']; ?><!--">-->

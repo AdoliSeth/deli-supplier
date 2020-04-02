@@ -25,37 +25,36 @@ mysqli_close($conn);
 
 <?php include ('inc/header.php') ?>
 
-<div class="container">
-    <h1>Posts</h1>
-    <?php foreach($posts as $post):  ?>
-    <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
-        <div class="card-header"><?php echo $post['title'] ?></div>
-        <div class="card-body">
-            <img style="width: 100%; height: 30vh" src="<?php echo $post['image'] ?>" class="img-responsive" > <br>
-            <small class="card-title"><?php echo $post['price'];?></small>
-            <p class="card-text"><?php echo $post['description']?></p>
-            <small>Posted on <?php echo $post['created_at'] ?> by </small>
-            <hr>
-            <a class="btn btn-default" style="background-color: darkorange" href="<?php echo ROOT_URL;?>post.php?id=<?php echo $post['id'];?>">Buy Now</a>
+
+<section>
+    <div class="container">
+        <h1>Posts</h1>
+        <div class="row">
+            <?php foreach($posts as $post):  ?>
+                <div class="col col-sm-4 col-md-4 col-lg-4 col-xl-4">
+                    <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
+                        <div class="card-header"><?php echo $post['title'] ?></div>
+                        <div class="card-body">
+                            <img style="width: 100%; height: 30vh" src="<?php echo $post['image'] ?>" class="img-responsive" > <br>
+                            <small class="card-title"> Ksh <?php echo $post['price'];?></small>
+                            <p class="card-text"><?php echo $post['description']?></p>
+                            <input type="text" name="quantity" class="form-control" value="1">
+                            <input type="hidden" name="hidden_title" class="<?php echo $posts['title']?>">
+                            <input type="hidden" name="hidden_price" class="<?php echo $posts['price']?>">
+                            <small>Posted on <?php echo $post['created_at'] ?> by </small>
+                            <hr>
+                            <a class="btn btn-default" style="background-color: darkorange" href="<?php echo ROOT_URL;?>post.php?id=<?php echo $post['id'];?>">Buy Now</a>
+                        </div>
+                    </div>
+
+                </div>
+            <?php endforeach; ?>
         </div>
     </div>
-    <?php endforeach; ?>
-</div>
+</section>
 
 
 
-<div class="container">
-    <h1>Posts</h1>
-    <?php foreach($posts as $post):  ?>
-        <div class="well">
-            <h3><?php echo $post['title'] ?></h3>
-            <small>Created on <?php echo $post['created_at'] ?> by </small>
-            <small><?php echo $post['description']?></small>
-            <p><?php echo $post['price'];?></p>
-            <a class="btn btn-default" href="<?php echo ROOT_URL;?>post.php?id=<?php echo $posts['id'];?>">Buy Now</a>
-        </div>
-    <?php endforeach; ?>
-</div>
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <?php include ('inc/footer.php') ?>

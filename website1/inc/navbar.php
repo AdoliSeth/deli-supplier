@@ -13,7 +13,13 @@
                 <a class="nav-link" href="<?php echo ROOT_URL ?>addpost.php">Add post</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Link</a>
+                <a class="nav-link" href="<?php echo ROOT_URL ?>login.php">Login</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="<?php echo ROOT_URL ?>logout.php">Logout</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="<?php echo ROOT_URL ?>signup.php">Signup</a>
             </li>
         </ul>
         <form class="form-inline my-2 my-lg-0">
