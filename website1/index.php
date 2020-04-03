@@ -1,6 +1,6 @@
 <?php
-require ('config/config.php');
-require ('config/db.php');
+require('config/config.php');
+require('config/db.php');
 //  create query
 $query = 'SELECT * FROM posts ORDER BY created_at DESC';
 
@@ -23,7 +23,7 @@ mysqli_close($conn);
 ?>
 
 
-<?php include ('inc/header.php') ?>
+<?php include('inc/header.php') ?>
 
 
 <section>
@@ -57,4 +57,4 @@ mysqli_close($conn);
 
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-<?php include ('inc/footer.php') ?>
+<?php include('inc/footer.php') ?>

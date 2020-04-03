@@ -12,6 +12,18 @@
             <li >
                 <a class="nav-link" href="<?php echo ROOT_URL ?>addpost.php">Add post</a>
             </li>
+            <li >
+                <a class="nav-link" href="<?php echo ROOT_URL ?>addshops.php">Add shop</a>
+            </li>
+            <li >
+                <a class="nav-link" href="<?php echo ROOT_URL ?>shops.php">Shops</a>
+            </li>
+            <li >
+                <a class="nav-link" href="<?php echo ROOT_URL ?>addcategory.php">Add Category</a>
+            </li>
+            <li >
+                <a class="nav-link" href="<?php echo ROOT_URL ?>categories.php">Categories</a>
+            </li>
             <li class="nav-item">
                 <a class="nav-link" href="<?php echo ROOT_URL ?>login.php">Login</a>
             </li>
