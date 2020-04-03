@@ -2,20 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6af908c-63b4-4d46-9abb-0aa866d69f3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/website1/addcategory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/addshops.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/categories.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/groceries.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/groceryA.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/groceryB.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/shops.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/supermarket.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/supermarketA.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/supermarketB.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/addgeneralshop.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/addgeneralshopaproducts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/addgeneralshopbproducts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/addgrocery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/addgroceryaproducts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/addgrocerybproducts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/addliquorstore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/addliquorstoreaproducts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/addliquorstorebproducts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/addrestaurant.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/addrestaurantaproducts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/addrestaurantbproducts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/addsupermarket.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/addsupermarketaproducts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/addsupermarketbproducts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/generalshopaproducts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/generalshopbproducts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/generalshops.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/groceries.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/groceryaproducts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/grocerybproducts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/kiosk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/liquorstoreaproducts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/liquorstorebproducts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/liquorstores.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/menu-restaurant-vintage-table.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/pexels-photo-1005639.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/pexels-photo-1756246.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/pexels-photo-2733918.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/pexels-photo-2872879.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/pexels-photo-3566226.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/pexels-photo-375897.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/restaurantaproducts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/restaurantbproducts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/restaurants.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/supermarketaproducts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/supermarketbproducts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/supermarketcategory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/supermarkets.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website1/cart.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website1/categories.php" beforeDir="false" afterPath="$PROJECT_DIR$/website1/categories.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/website1/inc/navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/website1/inc/navbar.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website1/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/website1/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +145,9 @@
       <workItem from="1585865994489" duration="4507000" />
       <workItem from="1585887486407" duration="12000" />
       <workItem from="1585887519872" duration="6671000" />
+      <workItem from="1585941657101" duration="1548000" />
+      <workItem from="1585943732568" duration="5832000" />
+      <workItem from="1585950241770" duration="4499000" />
     </task>
     <servers />
   </component>
@@ -184,14 +215,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="411" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1585895429703" />
-    <state x="604" y="344" key="NewPhpFileDialog" timestamp="1585890506587">
+    <state x="604" y="344" key="NewPhpFileDialog" timestamp="1585954735680">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="604" y="344" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1585890506587" />
-    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1585887521350">
+    <state x="604" y="344" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1585954735680" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1585950248060">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585887521350" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585950248060" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585347102831">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
