@@ -50,7 +50,7 @@ if(isset($_POST['submit'])){
                 <label for="">Description</label>
                 <textarea type="body" name="description" class="form-control"></textarea>
             </div>
-            <button class="btn btn-warning btn-block" name="submit" value="Submit" type="submit">Add Grocery</button>
+            <button class="btn btn-warning btn-block" name="submit" value="Submit" type="submit">Add Liquor store</button>
         </fieldset>
     </form>
 </div>

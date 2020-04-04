@@ -30,6 +30,8 @@
                     <a class="dropdown-item" href="<?php echo ROOT_URL ?>supermarkets.php">Supermarkets</a>
                     <a class="dropdown-item" href="<?php echo ROOT_URL ?>groceries.php">Groceries</a>
                     <a class="dropdown-item" href="<?php echo ROOT_URL ?>liquorstores.php">Liquor stores</a>
+                    <a class="dropdown-item" href="<?php echo ROOT_URL ?>generalshops.php">General shops</a>
+                    <a class="dropdown-item" href="<?php echo ROOT_URL ?>restaurants.php">Restaurants</a>
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="#">Something else here</a>
                 </div>
@@ -42,6 +44,8 @@
                     <a class="dropdown-item" href="<?php echo ROOT_URL ?>addsupermarket.php">Add Supermarket</a>
                     <a class="dropdown-item" href="<?php echo ROOT_URL ?>addgrocery.php"">Add Grocery</a>
                     <a class="dropdown-item" href="<?php echo ROOT_URL ?>addliquorstore.php"">Add Liquor store</a>
+                    <a class="dropdown-item" href="<?php echo ROOT_URL ?>addgeneralshop.php"">Add General shop</a>
+                    <a class="dropdown-item" href="<?php echo ROOT_URL ?>addrestaurant.php"">Add Restaurant</a>
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="#">Something else here</a>
                 </div>
@@ -55,7 +59,12 @@
                     <a class="dropdown-item" href="<?php echo ROOT_URL ?>supermarketbproducts.php">Supermarket A Products</a>
                     <a class="dropdown-item" href="<?php echo ROOT_URL ?>groceryaproducts.php">Grocery A Products</a>
                     <a class="dropdown-item" href="<?php echo ROOT_URL ?>grocerybproducts.php">Grocery B Products</a>
-
+                    <a class="dropdown-item" href="<?php echo ROOT_URL ?>liquorstoreaproducts.php">Liquor store A Products</a>
+                    <a class="dropdown-item" href="<?php echo ROOT_URL ?>liquorstorebproducts.php">Liquor store B Products</a>
+                    <a class="dropdown-item" href="<?php echo ROOT_URL ?>generalshopaproducts.php">General shop A Products</a>
+                    <a class="dropdown-item" href="<?php echo ROOT_URL ?>generalshopbproducts.php">General shop B Products</a>
+                    <a class="dropdown-item" href="<?php echo ROOT_URL ?>restaurantaproducts.php">Restaurant A Products</a>
+                    <a class="dropdown-item" href="<?php echo ROOT_URL ?>restaurantbproducts.php">Restaurant B Products</a>
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="#">Something else here</a>
                 </div>
@@ -69,6 +78,12 @@
                     <a class="dropdown-item" href="<?php echo ROOT_URL ?>addsupermarketbproducts.php">Add Supermarket A Products</a>
                     <a class="dropdown-item" href="<?php echo ROOT_URL ?>addgroceryaproducts.php">Add Grocery A Products</a>
                     <a class="dropdown-item" href="<?php echo ROOT_URL ?>addgrocerybproducts.php">Add Grocery B Products</a>
+                    <a class="dropdown-item" href="<?php echo ROOT_URL ?>addliquorstoreaproducts.php">Add Liquor store A Products</a>
+                    <a class="dropdown-item" href="<?php echo ROOT_URL ?>addliquorstorebproducts.php">Add Liquor store B Products</a>
+                    <a class="dropdown-item" href="<?php echo ROOT_URL ?>addgeneralshopaproducts.php">Add General shop A Products</a>
+                    <a class="dropdown-item" href="<?php echo ROOT_URL ?>addgeneralshopbproducts.php">Add General shop B Products</a>
+                    <a class="dropdown-item" href="<?php echo ROOT_URL ?>addrestaurantaproducts.php">Add Restaurant A Products</a>
+                    <a class="dropdown-item" href="<?php echo ROOT_URL ?>addrestaurantbproducts.php">Add Restaurant B Products</a>
 
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="#">Something else here</a>

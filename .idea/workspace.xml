@@ -2,48 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6af908c-63b4-4d46-9abb-0aa866d69f3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/website1/addgeneralshop.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/addgeneralshopaproducts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/addgeneralshopbproducts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/addgrocery.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/addgroceryaproducts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/addgrocerybproducts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/addliquorstore.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/addliquorstoreaproducts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/addliquorstorebproducts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/addrestaurant.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/addrestaurantaproducts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/addrestaurantbproducts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/addsupermarket.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/addsupermarketaproducts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/addsupermarketbproducts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/generalshopaproducts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/generalshopbproducts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/generalshops.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/groceries.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/groceryaproducts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/grocerybproducts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/kiosk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/liquorstoreaproducts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/liquorstorebproducts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/liquorstores.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/menu-restaurant-vintage-table.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/pexels-photo-1005639.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/pexels-photo-1756246.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/pexels-photo-2733918.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/pexels-photo-2872879.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/pexels-photo-3566226.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/pexels-photo-375897.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/restaurantaproducts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/restaurantbproducts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/restaurants.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/supermarketaproducts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/supermarketbproducts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/supermarketcategory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website1/supermarkets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/ariel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/blueband.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/dettol.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/java.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/kukito.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/pexels-photo-164763.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/pexels-photo-338711.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/pexels-photo-3636002.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/pexels-photo-3934057.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/soko.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/sugar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website1/water.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website1/categories.php" beforeDir="false" afterPath="$PROJECT_DIR$/website1/categories.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website1/addgeneralshop.php" beforeDir="false" afterPath="$PROJECT_DIR$/website1/addgeneralshop.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website1/addgeneralshopaproducts.php" beforeDir="false" afterPath="$PROJECT_DIR$/website1/addgeneralshopaproducts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website1/addgeneralshopbproducts.php" beforeDir="false" afterPath="$PROJECT_DIR$/website1/addgeneralshopbproducts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website1/addliquorstore.php" beforeDir="false" afterPath="$PROJECT_DIR$/website1/addliquorstore.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website1/addrestaurant.php" beforeDir="false" afterPath="$PROJECT_DIR$/website1/addrestaurant.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website1/addrestaurantaproducts.php" beforeDir="false" afterPath="$PROJECT_DIR$/website1/addrestaurantaproducts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website1/addrestaurantbproducts.php" beforeDir="false" afterPath="$PROJECT_DIR$/website1/addrestaurantbproducts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website1/generalshopaproducts.php" beforeDir="false" afterPath="$PROJECT_DIR$/website1/generalshopaproducts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website1/generalshopbproducts.php" beforeDir="false" afterPath="$PROJECT_DIR$/website1/generalshopbproducts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website1/generalshops.php" beforeDir="false" afterPath="$PROJECT_DIR$/website1/generalshops.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/website1/inc/navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/website1/inc/navbar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website1/restaurantaproducts.php" beforeDir="false" afterPath="$PROJECT_DIR$/website1/restaurantaproducts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website1/restaurantbproducts.php" beforeDir="false" afterPath="$PROJECT_DIR$/website1/restaurantbproducts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website1/restaurants.php" beforeDir="false" afterPath="$PROJECT_DIR$/website1/restaurants.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,14 +56,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/website1" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Xampp\htdocs\deli - supplier\website1" />
-      <recent name="C:\xampp\htdocs\deli - supplier\website1" />
-      <recent name="C:\xampp\htdocs\deli - supplier\website1\images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Xampp\htdocs\deli - supplier\website1" />
       <recent name="C:\Xampp\htdocs\deli - supplier\website1\supplier" />
+      <recent name="C:\xampp\htdocs\deli - supplier\website1\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Xampp\htdocs\deli - supplier\website1" />
+      <recent name="C:\xampp\htdocs\deli - supplier\website1" />
       <recent name="C:\xampp\htdocs\deli - supplier\website1\images" />
     </key>
   </component>
@@ -147,7 +132,9 @@
       <workItem from="1585887519872" duration="6671000" />
       <workItem from="1585941657101" duration="1548000" />
       <workItem from="1585943732568" duration="5832000" />
-      <workItem from="1585950241770" duration="4499000" />
+      <workItem from="1585950241770" duration="4661000" />
+      <workItem from="1585956396635" duration="1030000" />
+      <workItem from="1585957684267" duration="2011000" />
     </task>
     <servers />
   </component>
@@ -219,10 +206,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="604" y="344" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1585954735680" />
-    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1585950248060">
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1585957695883">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585950248060" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585957695883" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585347102831">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
