@@ -6,21 +6,25 @@
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
-            <li >
-                <a class="nav-link" href="<?php echo ROOT_URL ?>">Home</a>
-            </li>
-            <li >
-                <a class="nav-link" href="<?php echo ROOT_URL ?>addpost.php">Add post</a>
-            </li>
-            <li >
-                <a class="nav-link" href="<?php echo ROOT_URL ?>addshops.php">Add shop</a>
-            </li>
-            <li >
-                <a class="nav-link" href="<?php echo ROOT_URL ?>shops.php">Shops</a>
-            </li>
-            <li >
-                <a class="nav-link" href="<?php echo ROOT_URL ?>addcategory.php">Add Category</a>
-            </li>
+<!--            <li >-->
+<!--                <a class="nav-link" href="--><?php //echo ROOT_URL ?><!--">Home</a>-->
+<!--            </li>-->
+<!--            <li >-->
+<!--                <a class="nav-link" href="--><?php //echo ROOT_URL ?><!--addpost.php">Add post</a>-->
+<!--            </li>-->
+<!--            <li >-->
+<!--                <a class="nav-link" href="--><?php //echo ROOT_URL ?><!--addshops.php">Add shop</a>-->
+<!--            </li>-->
+<!--            <li >-->
+<!--                <a class="nav-link" href="--><?php //echo ROOT_URL ?><!--shops.php">Shops</a>-->
+<!--            </li>-->
+<!--            <li >-->
+<!--                <a class="nav-link" href="--><?php //echo ROOT_URL ?><!--addcategory.php">Add Category</a>-->
+<!--            </li>-->
+<!--            <li >-->
+<!--                <a class="nav-link" href="--><?php //echo ROOT_URL ?><!--cartthree.php">Cartthree</a>-->
+<!--            </li>-->
+
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="<?php echo ROOT_URL ?>categories.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color: midnightblue">
                     Categories
@@ -33,7 +37,7 @@
                     <a class="dropdown-item" href="<?php echo ROOT_URL ?>generalshops.php">General shops</a>
                     <a class="dropdown-item" href="<?php echo ROOT_URL ?>restaurants.php">Restaurants</a>
                     <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="#">Something else here</a>
+                    <a class="dropdown-item" href="<?php echo ROOT_URL ?>addcategory.php">Add Category</a>
                 </div>
             </li>
             <li class="nav-item dropdown">
@@ -56,7 +60,7 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" href="<?php echo ROOT_URL ?>supermarketaproducts.php">Supermarket A Products</a>
-                    <a class="dropdown-item" href="<?php echo ROOT_URL ?>supermarketbproducts.php">Supermarket A Products</a>
+                    <a class="dropdown-item" href="<?php echo ROOT_URL ?>supermarketbproducts.php">Supermarket B Products</a>
                     <a class="dropdown-item" href="<?php echo ROOT_URL ?>groceryaproducts.php">Grocery A Products</a>
                     <a class="dropdown-item" href="<?php echo ROOT_URL ?>grocerybproducts.php">Grocery B Products</a>
                     <a class="dropdown-item" href="<?php echo ROOT_URL ?>liquorstoreaproducts.php">Liquor store A Products</a>
@@ -75,7 +79,7 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" href="<?php echo ROOT_URL ?>addsupermarketaproducts.php">Add Supermarket A Products</a>
-                    <a class="dropdown-item" href="<?php echo ROOT_URL ?>addsupermarketbproducts.php">Add Supermarket A Products</a>
+                    <a class="dropdown-item" href="<?php echo ROOT_URL ?>addsupermarketbproducts.php">Add Supermarket B Products</a>
                     <a class="dropdown-item" href="<?php echo ROOT_URL ?>addgroceryaproducts.php">Add Grocery A Products</a>
                     <a class="dropdown-item" href="<?php echo ROOT_URL ?>addgrocerybproducts.php">Add Grocery B Products</a>
                     <a class="dropdown-item" href="<?php echo ROOT_URL ?>addliquorstoreaproducts.php">Add Liquor store A Products</a>
@@ -93,7 +97,9 @@
 <!--            <li >-->
 <!--                <a class="nav-link" href="--><?php //echo ROOT_URL ?><!--supermarketcategory.php">Supermarket Category</a>-->
 <!--            </li>-->
-
+            <li >
+                <a class="nav-link" href="<?php echo ROOT_URL ?>cartfour.php">Cart</a>
+            </li>
 
             <li class="nav-item">
                 <a class="nav-link" href="<?php echo ROOT_URL ?>login.php">Login</a>

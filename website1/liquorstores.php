@@ -43,7 +43,10 @@ mysqli_close($conn);
                         <!--                            <input type="hidden" name="hidden_price" class="--><?php //echo $posts['price']?><!--">-->
                         <!--                            <small>Posted on --><?php //echo $post['created_at'] ?><!-- by </small>-->
                         <hr>
-                        <a class="btn btn-default" style="background-color: darkorange" href="<?php echo ROOT_URL;?>liquorstoreaproducts.php?id=<?php echo $liquorstore['id'];?>">View products</a>
+                        <a class="btn btn-default" style="background-color: darkorange" href="<?php echo ROOT_URL;?>liquorstoreaproducts.php?id=<?php echo $liquorstore['id'];?>">View Liquor store A products</a>
+                        <br>
+                        <br>
+                        <a class="btn btn-default" style="background-color: darkorange" href="<?php echo ROOT_URL;?>liquorstorebproducts.php?id=<?php echo $liquorstore['id'];?>">View Liquor store B products</a>
                     </div>
                 </div>
 

@@ -28,7 +28,7 @@ mysqli_close($conn);
 
 <section>
     <div class="container">
-        <h1>Supermarket A Products</h1>
+        <h1>Supermarket B Products</h1>
         <div class="row">
             <?php foreach($supproductsb as $post):  ?>
                 <div class="col col-sm-4 col-md-4 col-lg-4 col-xl-4">
@@ -44,6 +44,7 @@ mysqli_close($conn);
                             <small>Posted on <?php echo $post['created_at'] ?> by </small>
                             <hr>
                             <a class="btn btn-default" style="background-color: darkorange" href="<?php echo ROOT_URL;?>post.php?id=<?php echo $post['id'];?>">Buy Now</a>
+                            <a class="btn btn-default" style="background-color: darkorange" href="<?php echo ROOT_URL;?>supbcartthree.php?id=<?php echo $post['id'];?>">Add to Cart</a>
                         </div>
                     </div>
 

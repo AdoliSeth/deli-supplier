@@ -53,6 +53,7 @@ if(isset($_POST['submit'])) {
 
     $query = "INSERT INTO posts(title, image, description, price) VALUES('$title', '$image', '$description', '$price')";
 
+
     if (mysqli_query($conn, $query)) {
         header('Location: ' . ROOT_URL . 'testcart.php');
     } else {
@@ -84,6 +85,7 @@ if(isset($_POST['submit'])) {
                     <input type="submit" name="delete" value="Delete" class="btn btn-danger">
                 </form>
                 <a href="<?php echo ROOT_URL;?>" class="btn btn-success">Back</a>
+                <input class="btn btn-default" type="submit" name="add_to_cart" value="Add to Cart" style="background-color: darkorange" href="">
             </div>
         </div>
 </div>

@@ -44,6 +44,7 @@ mysqli_close($conn);
                             <small>Posted on <?php echo $post['created_at'] ?> by </small>
                             <hr>
                             <a class="btn btn-default" style="background-color: darkorange" href="<?php echo ROOT_URL;?>post.php?id=<?php echo $post['id'];?>">Buy Now</a>
+                            <a class="btn btn-default" style="background-color: darkorange" href="<?php echo ROOT_URL;?>genacartthree.php?id=<?php echo $post['id'];?>">Add to Cart</a>
                         </div>
                     </div>
 
